@@ -1,0 +1,16 @@
+# build output
+dist/
+# dependencies
+node_modules/
+# astro
+.astro/
+# logs / env
+*.log
+.env
+.env.*
+.dev.vars
+.DS_Store
+# source brief / working docs (not part of the site)
+MASTER-PROMPT-NEW-AFFILIATE-SITE*
+~$*
+~WRL*.tmp

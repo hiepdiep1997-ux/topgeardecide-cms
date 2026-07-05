@@ -1,0 +1,7 @@
+name = "topgeardecide-cms-auth"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# Secrets are NOT stored here. Set them after first deploy with:
+#   wrangler secret put GITHUB_CLIENT_ID
+#   wrangler secret put GITHUB_CLIENT_SECRET

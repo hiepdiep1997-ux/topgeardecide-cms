@@ -1,0 +1,127 @@
+{
+  "logoPre": "TopGear",
+  "logoAccent": "Decide",
+  "header": {
+    "nav": [
+      {
+        "label": "Best Picks",
+        "href": "/#best-picks"
+      },
+      {
+        "label": "Reviews",
+        "href": "/#latest"
+      },
+      {
+        "label": "Deals",
+        "href": "/#deals"
+      },
+      {
+        "label": "Supplements",
+        "href": "/supplements"
+      },
+      {
+        "label": "Pantry",
+        "href": "/pantry"
+      },
+      {
+        "label": "Drinks",
+        "href": "/drinks"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Independent, hands-on reviews and buying guides for the food, supplements and drinks worth putting in your body.",
+    "columns": [
+      {
+        "heading": "Categories",
+        "links": [
+          {
+            "label": "Supplements",
+            "href": "/supplements"
+          },
+          {
+            "label": "Pantry",
+            "href": "/pantry"
+          },
+          {
+            "label": "Drinks",
+            "href": "/drinks"
+          },
+          {
+            "label": "Deals",
+            "href": "/#deals"
+          }
+        ]
+      },
+      {
+        "heading": "Company",
+        "links": [
+          {
+            "label": "About",
+            "href": "/about"
+          },
+          {
+            "label": "Contact",
+            "href": "/contact"
+          },
+          {
+            "label": "Affiliate Disclosure",
+            "href": "/affiliate-disclosure"
+          },
+          {
+            "label": "Privacy Policy",
+            "href": "/privacy-policy"
+          }
+        ]
+      },
+      {
+        "heading": "Top Guides",
+        "links": [
+          {
+            "label": "Best Whey Protein",
+            "href": "/best-whey-protein-powders"
+          },
+          {
+            "label": "Best Greens Powders",
+            "href": "/best-greens-powders"
+          },
+          {
+            "label": "Best Creatine",
+            "href": "/best-creatine-monohydrate"
+          },
+          {
+            "label": "Best Olive Oil",
+            "href": "/best-extra-virgin-olive-oil"
+          },
+          {
+            "label": "Best Electrolyte Mixes",
+            "href": "/best-electrolyte-drink-mixes"
+          },
+          {
+            "label": "Best Ground Coffee",
+            "href": "/best-ground-coffee"
+          }
+        ]
+      }
+    ],
+    "disclosure": "TopGearDecide.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.",
+    "copyright": "© 2025 TopGearDecide.com. All rights reserved."
+  },
+  "hero": {
+    "slides": []
+  },
+  "deals": {
+    "image": "/images/deals.jpg",
+    "title": "This Week's Best Food & Supplement Deals",
+    "text": "Our editors track price drops across the products we recommend, so you only stock up when the timing is right.",
+    "link": "/#deals"
+  },
+  "code": {
+    "customHead": "",
+    "customBody": ""
+  }
+}
