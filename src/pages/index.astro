@@ -17,7 +17,6 @@ const card = (a: (typeof articles)[number]) => ({
 
 const cards = articles.map(card);
 const picks = articles.slice(0, 4);
-const latest = articles.slice(0, 3).map(card);
 
 const heroSlides = site.hero?.slides ?? [];
 ---
@@ -83,18 +82,23 @@ const heroSlides = site.hero?.slides ?? [];
             </div>
           </a>
         ))}
+      </div>
+    </div>
+  </section>
 
-        <a class="card" href={site.deals.link}>
-          <div class="card-thumb">
-            {site.deals.image && <img src={site.deals.image} alt={site.deals.title} width="600" height="340" loading="lazy" />}
-          </div>
-          <div class="card-body">
-            <span class="tag">Deals</span>
-            <h3>{site.deals.title}</h3>
-            <p>{site.deals.text}</p>
-            <span class="read-more">See deals &rarr;</span>
-          </div>
-        </a>
+  <!-- DEALS BANNER (full-width promo strip, visually distinct from review cards) -->
+  <section class="section" id="deals">
+    <div class="container">
+      <div class="deals-banner">
+        <div class="deals-banner-media">
+          {site.deals.image && <img src={site.deals.image} alt={site.deals.title} width="760" height="440" loading="lazy" />}
+        </div>
+        <div class="deals-banner-body">
+          <span class="deals-eyebrow">Deals</span>
+          <h2>{site.deals.title}</h2>
+          <p>{site.deals.text}</p>
+          <a href={site.deals.link} class="btn">Browse top-rated picks &rarr;</a>
+        </div>
       </div>
     </div>
   </section>
@@ -113,28 +117,6 @@ const heroSlides = site.hero?.slides ?? [];
             </div>
             <a href={`/${a.id}`} class="btn">See review</a>
           </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- LATEST REVIEWS + DEALS anchor -->
-  <section class="section" id="deals">
-    <div class="container">
-      <div class="section-head"><h2>Latest Reviews</h2></div>
-      <div class="card-grid">
-        {latest.map((c) => (
-          <a class="card" href={c.href}>
-            <div class="card-thumb">
-              {c.image && <img src={c.image} alt={c.title} width="600" height="340" loading="lazy" />}
-            </div>
-            <div class="card-body">
-              <span class="tag" set:html={c.category} />
-              <h3>{c.title}</h3>
-              <p>{c.summary}</p>
-              <span class="read-more">Read review &rarr;</span>
-            </div>
-          </a>
         ))}
       </div>
     </div>

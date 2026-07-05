@@ -137,9 +137,9 @@
   },
   "deals": {
     "image": "/images/deals.jpg",
-    "title": "This Week's Best Food & Supplement Deals",
-    "text": "Our editors track price drops across the products we recommend, so you only stock up when the timing is right.",
-    "link": "/#deals"
+    "title": "Deals & Price Drops",
+    "text": "Our editors track prices across every product we recommend and flag the best value inside each guide — so you buy when the timing is right. Start with our top-rated picks below.",
+    "link": "/#best-picks"
   },
   "code": {
     "customHead": "",
