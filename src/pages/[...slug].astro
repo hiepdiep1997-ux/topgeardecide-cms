@@ -16,6 +16,17 @@ const SITE_URL = "https://topgeardecide.com";
 const path = `/${article.id}`;
 const ogImage = a.ogImage || a.cardImage;
 
+// Monogram (first letters of the first two words) for the designed product
+// panel shown when a product has no real photo yet.
+const monogram = (s: string) =>
+  s
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map((w) => w[0])
+    .join("")
+    .toUpperCase();
+
 // --- JSON-LD blocks (generated from frontmatter) ---------------------------
 const breadcrumb = {
   "@context": "https://schema.org",
@@ -141,7 +152,15 @@ const quickPickHref = quickPickProduct?.affiliateUrl || "#";
         <div class="product">
           <div class="product-head"><span class="num">{i + 1}</span><span class="award">{p.award}</span></div>
           <h2>{p.name}</h2>
-          {p.image && <img src={p.image} alt={p.name} loading="lazy" style="border-radius:8px;margin:6px 0 14px;" />}
+          {p.image ? (
+            <img src={p.image} alt={p.name} loading="lazy" style="border-radius:8px;margin:6px 0 14px;" />
+          ) : (
+            <div class="product-media" aria-hidden="true">
+              <span class="pm-badge">{p.award}</span>
+              <span class="pm-mono">{monogram(p.name)}</span>
+              <span class="pm-name">{p.name}</span>
+            </div>
+          )}
           <p>{p.description}</p>
           <div class="proscons">
             <div class="box pros">

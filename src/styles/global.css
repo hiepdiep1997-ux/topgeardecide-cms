@@ -495,3 +495,66 @@ table.compare td:first-child { font-weight: 700; color: var(--navy); }
   .pick { grid-template-columns: 40px 1fr; }
   .pick .btn { grid-column: 2; justify-self: start; }
 }
+
+/* Designed product panel (shown when a product has no real photo yet).
+   Brand-colored, editorial-looking placeholder — no third-party imagery. */
+.product-media {
+  position: relative;
+  height: 210px;
+  border-radius: 8px;
+  margin: 6px 0 16px;
+  background: linear-gradient(135deg, var(--navy-light) 0%, var(--navy) 100%);
+  color: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  overflow: hidden;
+}
+.product-media::after {
+  content: "";
+  position: absolute;
+  right: -40px;
+  bottom: -40px;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.06);
+}
+.product-media .pm-badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  background: var(--orange);
+  color: var(--white);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 4px 12px;
+  border-radius: 20px;
+}
+.product-media .pm-mono {
+  font-size: 2.4rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  line-height: 1;
+  width: 92px;
+  height: 92px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.15);
+  border: 2px solid rgba(255, 255, 255, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+.product-media .pm-name {
+  font-size: 1.02rem;
+  font-weight: 700;
+  max-width: 82%;
+  line-height: 1.35;
+  opacity: 0.96;
+}
