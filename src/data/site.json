@@ -112,7 +112,12 @@
     "copyright": "© 2025 TopGearDecide.com. All rights reserved."
   },
   "hero": {
-    "slides": []
+    "slides": [
+      {
+        "image": "/images/hero-1.jpg",
+        "alt": ""
+      }
+    ]
   },
   "deals": {
     "image": "/images/deals.jpg",
