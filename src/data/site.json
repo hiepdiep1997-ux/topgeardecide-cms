@@ -114,8 +114,24 @@
   "hero": {
     "slides": [
       {
-        "image": "/images/hero-1.jpg",
-        "alt": ""
+        "image": "/images/hero/fresh-produce-flatlay.jpg",
+        "alt": "Flat lay of fresh fruits and vegetables"
+      },
+      {
+        "image": "/images/hero/wholesome-breakfast-table.jpg",
+        "alt": "Wholesome healthy breakfast on a table"
+      },
+      {
+        "image": "/images/hero/healthy-food-spread.jpg",
+        "alt": "Spread of fresh healthy food on a wooden table"
+      },
+      {
+        "image": "/images/hero/green-smoothie-jars.jpg",
+        "alt": "Green smoothies in mason jars"
+      },
+      {
+        "image": "/images/hero/fresh-orange-juice.jpg",
+        "alt": "Glass of fresh orange juice with healthy food"
       }
     ]
   },
