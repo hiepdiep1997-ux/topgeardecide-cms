@@ -19,6 +19,7 @@ products:
     price: "~$16 (25.4 oz)"
     rating: "4.7 / 5"
     bestFor: "Reliable everyday quality"
+    image: "/images/california-olive-ranch-everyday.jpg"
     description: "The most-awarded US olive oil company and a repeat blind-tasting winner. It delivers dependable freshness and a versatile medium-intensity profile, making it the safe default for most kitchens."
     pros:
       - "100% California-grown with strong traceability"
