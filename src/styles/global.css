@@ -605,3 +605,8 @@ table.compare td:first-child { font-weight: 700; color: var(--navy); }
   .deals-banner-media { min-height: 180px; }
   .deals-banner-body { padding: 26px 22px; }
 }
+
+/* Force a fixed 3-column row (e.g. bottom "Latest Reviews" strip). */
+.card-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 860px) { .card-grid.cols-3 { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 560px) { .card-grid.cols-3 { grid-template-columns: 1fr; } }

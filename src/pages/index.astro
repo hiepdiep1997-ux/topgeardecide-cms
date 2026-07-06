@@ -17,6 +17,7 @@ const card = (a: (typeof articles)[number]) => ({
 
 const cards = articles.map(card);
 const picks = articles.slice(0, 4);
+const latest = articles.slice(-3).map(card);
 
 const heroSlides = site.hero?.slides ?? [];
 ---
@@ -117,6 +118,28 @@ const heroSlides = site.hero?.slides ?? [];
             </div>
             <a href={`/${a.id}`} class="btn">See review</a>
           </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- LATEST REVIEWS (bottom strip: 1 row, 3 columns = 3 articles) -->
+  <section class="section" id="latest-reviews">
+    <div class="container">
+      <div class="section-head"><h2>Latest Reviews</h2></div>
+      <div class="card-grid cols-3">
+        {latest.map((c) => (
+          <a class="card" href={c.href}>
+            <div class="card-thumb">
+              {c.image && <img src={c.image} alt={c.title} width="600" height="340" loading="lazy" />}
+            </div>
+            <div class="card-body">
+              <span class="tag" set:html={c.category} />
+              <h3>{c.title}</h3>
+              <p>{c.summary}</p>
+              <span class="read-more">Read review &rarr;</span>
+            </div>
+          </a>
         ))}
       </div>
     </div>
