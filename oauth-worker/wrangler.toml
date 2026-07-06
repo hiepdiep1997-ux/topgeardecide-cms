@@ -2,6 +2,11 @@ name = "topgeardecide-cms-auth"
 main = "src/index.js"
 compatibility_date = "2025-01-01"
 
-# Secrets are NOT stored here. Set them after first deploy with:
+# Domains allowed to use this authenticator (Sveltia sends the CMS host as
+# `site_id`). Wildcards supported. Includes Pages preview builds + the domain.
+[vars]
+ALLOWED_DOMAINS = "topgeardecide-cms.pages.dev,*.pages.dev,topgeardecide.com,www.topgeardecide.com"
+
+# Secrets are NOT stored here. Already set on the Worker with:
 #   wrangler secret put GITHUB_CLIENT_ID
 #   wrangler secret put GITHUB_CLIENT_SECRET

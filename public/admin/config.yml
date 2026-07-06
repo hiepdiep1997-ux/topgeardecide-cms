@@ -21,10 +21,6 @@ backend:
 media_folder: "public/images"
 public_folder: "/images"
 
-# Show a "Local backend" toggle when running `npx sveltia-cms-proxy-server`
-# locally, so you can test the admin without GitHub login during development.
-local_backend: true
-
 # Logo shown on the Sveltia CMS login screen.
 logo_url: /favicon.png
 
