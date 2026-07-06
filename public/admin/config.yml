@@ -11,11 +11,10 @@
 
 backend:
   name: github
-  repo: hiepdiep1997/topgeardecide-cms   # TODO: set to the real GitHub owner/repo after you create it
+  repo: hiepdiep1997-ux/topgeardecide-cms
   branch: main
-  # URL of the deployed auth worker (handles GitHub login). Fill in after you
-  # deploy oauth-worker/ — it looks like https://topgeardecide-cms-auth.<your-subdomain>.workers.dev
-  base_url: https://topgeardecide-cms-auth.CHANGE-ME.workers.dev
+  # URL of the deployed auth worker (handles GitHub login).
+  base_url: https://topgeardecide-cms-auth.hiepdiep1997.workers.dev
 
 # Where uploaded images are stored in the repo, and how they're referenced
 # in the built site. Astro serves everything in /public at the site root.
