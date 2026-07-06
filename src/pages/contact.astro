@@ -1,10 +1,11 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import site from "../data/site.json";
 
-// Web3Forms access key. REPLACE the placeholder below with the new key you
-// generate at https://web3forms.com (free) for info@topgeardecide.com.
-// Until then the form UI works but submissions will not be delivered.
-const WEB3FORMS_ACCESS_KEY = "REPLACE_WITH_YOUR_WEB3FORMS_ACCESS_KEY";
+// Web3Forms access key is managed in Admin → Site Settings → Contact Form.
+// (It is a public, client-side key — safe to expose.) Empty = the form UI works
+// but submissions are not delivered until a key is set.
+const WEB3FORMS_ACCESS_KEY = site.contact?.web3formsKey || "";
 ---
 <BaseLayout
   title="Contact Top Gear Decide"

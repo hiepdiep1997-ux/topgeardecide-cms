@@ -182,3 +182,8 @@ collections:
                 default_language: "html"
                 allow_language_selection: false
                 required: false
+          - name: "contact"
+            label: "Contact Form"
+            widget: "object"
+            fields:
+              - { name: "web3formsKey", label: "Web3Forms Access Key (paste the key from web3forms.com)", widget: "string", required: false }
