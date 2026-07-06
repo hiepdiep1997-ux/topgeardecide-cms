@@ -17,3 +17,10 @@ MASTER-PROMPT-NEW-AFFILIATE-SITE*
 
 # local-only image review helper (never deploy)
 public/_image-check.html
+
+# generated admin guide exports (keep the .md source only)
+HUONG-DAN-QUAN-TRI.pdf
+HUONG-DAN-QUAN-TRI.html
+
+# local stray notes
+Client ID.txt
