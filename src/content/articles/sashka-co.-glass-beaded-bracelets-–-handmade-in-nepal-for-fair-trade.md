@@ -4,7 +4,7 @@ metaTitle: SASHKA CO. Glass Beaded Bracelets – Handmade Nepal & Fair Trade
 metaDescription: Handmade glass beaded bracelets by SASHKA CO., crafted by artisans in Nepal. Your purchase supports fair trade and empowers women in need. Find your size.
 category: Supplements
 categoryLink: /supplements
-cardImage: /images/Ảnh chụp màn hình 2026-07-14 231616.png
+cardImage: /images/Ảnh chụp màn hình 2026-07-14 234727.png
 ogImage: /images/Ảnh chụp màn hình 2026-07-14 231600.png
 cardTitle: SASHKA CO. Glass Beaded Bracelet
 cardSummary: Handmade glass beaded bracelets crafted by skilled artisans in Nepal. Supports fair trade and empowers women in need.
