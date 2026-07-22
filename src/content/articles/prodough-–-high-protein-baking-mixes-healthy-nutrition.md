@@ -5,7 +5,7 @@ metaDescription: Explore ProDough high-protein, gluten-free baking mixes and sup
 category: Supplements
 categoryLink: /pantry
 cardImage: /images/Ảnh chụp màn hình 2026-07-21 191055.png
-ogImage: /images/Ảnh chụp màn hình 2026-07-21 191101.png
+ogImage: ''
 cardTitle: ProDough – High-Protein Baking Mixes & Healthy Nutrition
 cardSummary: ProDough provides premium high-protein, gluten-free baking mixes designed for fitness enthusiasts and healthy lifestyle lovers. Enjoy delicious, guilt-free treats!
 publishedLabel: Updated 2026
