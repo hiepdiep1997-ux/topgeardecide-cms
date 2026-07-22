@@ -4,8 +4,8 @@ metaTitle: 'ProDough: Premium High-Protein & Gluten-Free Baking Mixes'
 metaDescription: Explore ProDough high-protein, gluten-free baking mixes and supplements. Perfect low-calorie solutions for fitness lovers, keto diets, and healthy baking.
 category: Supplements
 categoryLink: /pantry
-cardImage: /images/Ảnh chụp màn hình 2026-07-21 191055.png
-ogImage: /images/Ảnh chụp màn hình 2026-07-22 120136.png
+cardImage: https://prodoughshop.com/cdn/shop/files/daily-recharge-reds-greens-stick-pack-samples-701565.jpg?v=1725028592&width=1946
+ogImage: https://prodoughshop.com/cdn/shop/products/prodough-pancake-waffle-mix-102206.jpg?v=1701895127&width=1946
 cardTitle: ProDough – High-Protein Baking Mixes & Healthy Nutrition
 cardSummary: ProDough provides premium high-protein, gluten-free baking mixes designed for fitness enthusiasts and healthy lifestyle lovers. Enjoy delicious, guilt-free treats!
 publishedLabel: Updated 2026
@@ -18,13 +18,13 @@ quickPick:
   name: ProDough Protein Donut Mix
   reason: ProDough Protein Donut Mix is the ultimate choice for macro-friendly, low-calorie baking. It offers a perfect balance of high protein and rich flavor, allowing you to enjoy fresh, delicious donuts without ruining your nutrition goals.
 products:
-  - name: Grass Fed Beef Protein - Stick Pack
+  - name: ProDough Protein Donut Mix
     award: Best Overall
     affiliateUrl: https://prodoughshop.com?sca_ref=11545857.m7Ohu9ufeAHKBjf
     price: Sale price $3.49
     rating: 4.9 / 5
     bestFor: Easy low-calorie protein donuts at home
-    image: /images/Ảnh chụp màn hình 2026-07-21 192423.png
+    image: https://prodoughshop.com/cdn/shop/files/grass-fed-beef-protein-stick-pack-1490643.jpg?v=1775773582&width=1946
     description: ProDough Protein Donut Mix is designed to bring you delicious, bakery-quality donuts with a high-protein, low-calorie profile. Made with premium ingredients and completely gluten-free, this mix allows you to satisfy your sweet cravings effortlessly while hitting your daily nutrition and fitness goals.
     pros:
       - High in protein, gluten-free, and low in calories
@@ -60,7 +60,7 @@ products:
     price: ~$21.99
     rating: 4.8 / 5
     bestFor: Quick high-protein breakfasts and fitness meal prep
-    image: /images/Ảnh chụp màn hình 2026-07-22 115835.png
+    image: https://prodoughshop.com/cdn/shop/files/gourmet-whey-protein-powders-4595398.jpg?v=1755031264&width=1946
     description: ProDough Protein Pancake & Waffle Mix delivers fluffy, delicious pancakes packed with high protein and low calories. It is gluten-free and extremely easy to make—just add water or milk, cook, and enjoy a nutritious breakfast in minutes.
     pros:
       - Easy to mix and prepares quickly in a few minutes
@@ -77,7 +77,7 @@ products:
     price: ~$59.99
     rating: 4.8 / 5
     bestFor: Vegans, dairy-free diets, and plant-based baking
-    image: /images/Ảnh chụp màn hình 2026-07-22 120051.png
+    image: https://prodoughshop.com/cdn/shop/products/prodough-pancake-waffle-mix-532672.jpg?v=1701895127&width=1946
     description: ProDough Plant Protein is a premium vegan protein powder made from high-quality plant-based sources. Naturally sweetened and dairy-free, it delivers smooth texture and rich flavor, making it perfect for daily shakes, smoothies, or high-protein vegan baking.
     pros:
       - 100% plant-based, vegan, and dairy-free
