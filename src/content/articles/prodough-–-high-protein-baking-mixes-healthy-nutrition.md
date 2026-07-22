@@ -60,7 +60,7 @@ products:
     price: ~$21.99
     rating: 4.8 / 5
     bestFor: Quick high-protein breakfasts and fitness meal prep
-    image: /images/Ảnh chụp màn hình 2026-07-22 113444.png
+    image: /images/Ảnh chụp màn hình 2026-07-22 101301.png
     description: ProDough Protein Pancake & Waffle Mix delivers fluffy, delicious pancakes packed with high protein and low calories. It is gluten-free and extremely easy to make—just add water or milk, cook, and enjoy a nutritious breakfast in minutes.
     pros:
       - Easy to mix and prepares quickly in a few minutes
