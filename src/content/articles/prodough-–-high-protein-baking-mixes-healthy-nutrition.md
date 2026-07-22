@@ -5,7 +5,7 @@ metaDescription: Explore ProDough high-protein, gluten-free baking mixes and sup
 category: Supplements
 categoryLink: /pantry
 cardImage: /images/Ảnh chụp màn hình 2026-07-21 191055.png
-ogImage: ''
+ogImage: /images/Ảnh chụp màn hình 2026-07-22 120136.png
 cardTitle: ProDough – High-Protein Baking Mixes & Healthy Nutrition
 cardSummary: ProDough provides premium high-protein, gluten-free baking mixes designed for fitness enthusiasts and healthy lifestyle lovers. Enjoy delicious, guilt-free treats!
 publishedLabel: Updated 2026
@@ -42,7 +42,7 @@ products:
     price: $59.99
     rating: 4,9/5
     bestFor: Smoothies, daily protein shake, and healthy baking
-    image: /images/Ảnh chụp màn hình 2026-07-22 113336.png
+    image: /images/Ảnh chụp màn hình 2026-07-22 115938.png
     description: ProDough Gourmet Whey Protein Powder offers a rich, smooth flavor profile combined with high-quality protein to support muscle recovery and daily nutrition. Perfectly formulated for shakers, smoothies, or baking into your favorite healthy desserts without clumping.
     pros:
       - Delicious gourmet flavors and excellent mixability
@@ -60,7 +60,7 @@ products:
     price: ~$21.99
     rating: 4.8 / 5
     bestFor: Quick high-protein breakfasts and fitness meal prep
-    image: /images/Ảnh chụp màn hình 2026-07-22 101301.png
+    image: /images/Ảnh chụp màn hình 2026-07-22 115835.png
     description: ProDough Protein Pancake & Waffle Mix delivers fluffy, delicious pancakes packed with high protein and low calories. It is gluten-free and extremely easy to make—just add water or milk, cook, and enjoy a nutritious breakfast in minutes.
     pros:
       - Easy to mix and prepares quickly in a few minutes
@@ -77,7 +77,7 @@ products:
     price: ~$59.99
     rating: 4.8 / 5
     bestFor: Vegans, dairy-free diets, and plant-based baking
-    image: /images/Ảnh chụp màn hình 2026-07-22 113646.png
+    image: /images/Ảnh chụp màn hình 2026-07-22 120051.png
     description: ProDough Plant Protein is a premium vegan protein powder made from high-quality plant-based sources. Naturally sweetened and dairy-free, it delivers smooth texture and rich flavor, making it perfect for daily shakes, smoothies, or high-protein vegan baking.
     pros:
       - 100% plant-based, vegan, and dairy-free
