@@ -24,7 +24,7 @@ products:
     price: Sale price $3.49
     rating: 4.9 / 5
     bestFor: Easy low-calorie protein donuts at home
-    image: https://prodoughshop.com/cdn/shop/files/grass-fed-beef-protein-stick-pack-1490643.jpg?v=1775773582&width=1946
+    image: https://prodoughshop.com/cdn/shop/products/premium-flavors-protein-donut-mixes-monthly-subscription-223254.jpg?v=1762451472&width=1946
     description: ProDough Protein Donut Mix is designed to bring you delicious, bakery-quality donuts with a high-protein, low-calorie profile. Made with premium ingredients and completely gluten-free, this mix allows you to satisfy your sweet cravings effortlessly while hitting your daily nutrition and fitness goals.
     pros:
       - High in protein, gluten-free, and low in calories
@@ -36,31 +36,30 @@ products:
     ratingValue: '4.9'
     ratingCount: '128'
     reviewBody: Customers highly praise ProDough Protein Donut Mix for its delicious taste, easy preparation, and excellent macro-friendly nutrition profile. It is widely considered a top choice for healthy, guilt-free baking.
-  - name: Gourmet Whey Protein Powders
-    award: Best Taste & Versatility
+  - name: Original Protein Crepe Mix
+    award: Best Healthy Crepes
     affiliateUrl: https://prodoughshop.com?sca_ref=11545857.m7Ohu9ufeAHKBjf
-    price: $59.99
-    rating: 4,9/5
-    bestFor: Smoothies, daily protein shake, and healthy baking
-    image: /images/Ảnh chụp màn hình 2026-07-22 115938.png
-    description: ProDough Gourmet Whey Protein Powder offers a rich, smooth flavor profile combined with high-quality protein to support muscle recovery and daily nutrition. Perfectly formulated for shakers, smoothies, or baking into your favorite healthy desserts without clumping.
+    price: ~$19.99
+    rating: 4.7 / 5
+    bestFor: Light, macro-friendly breakfasts and sweet or savory healthy wraps
+    image: https://prodoughshop.com/cdn/shop/products/original-protein-crepe-mix-334398.jpg?v=1690822144&width=1946
+    description: ProDough Original Protein Crepe Mix lets you craft delicate, authentic-tasting crepes with a macro-friendly twist. Packed with protein and low in calories, this mix is perfect for both sweet and savory fillings, giving you a versatile and healthy option for any time of the day.
     pros:
-      - Delicious gourmet flavors and excellent mixability
-      - Great for both drinking shakers and high-protein baking
+      - High protein and low calorie for guilt-free eating
+      - Versatile for both sweet and savory crepe recipes
     cons:
-      - Contains dairy (not suitable for strict vegan diets)
-      - Slightly premium price compared to standard whey
-    priceValue: '59.99'
-    ratingValue: '4.9'
-    ratingCount: '95'
-    reviewBody: ProDough Gourmet Whey Protein Powder is highly rated for its exceptional taste and versatile use in both drinks and healthy baking recipes. Customers love its smooth texture and easy mixability without any clumpiness.
-  - name: High-Protein & Low-Calorie
+      - Requires a bit of practice to spread the batter thinly
+    priceValue: '20'
+    ratingValue: '4.7'
+    ratingCount: '82'
+    reviewBody: ProDough Original Protein Crepe Mix is highly rated for its authentic texture and macro-friendly nutritional profile. Customers love how easy it is to make delicious, versatile healthy crepes at home.
+  - name: ProDough Protein Pancake & Waffle Mix
     award: Best Healthy Breakfast
     affiliateUrl: https://prodoughshop.com?sca_ref=11545857.m7Ohu9ufeAHKBjf
     price: ~$21.99
     rating: 4.8 / 5
     bestFor: Quick high-protein breakfasts and fitness meal prep
-    image: https://prodoughshop.com/cdn/shop/files/gourmet-whey-protein-powders-4595398.jpg?v=1755031264&width=1946
+    image: https://prodoughshop.com/cdn/shop/products/cinnamon-swirl-protein-pancake-waffle-mix-410869.jpg?v=1762447143&width=1946
     description: ProDough Protein Pancake & Waffle Mix delivers fluffy, delicious pancakes packed with high protein and low calories. It is gluten-free and extremely easy to make—just add water or milk, cook, and enjoy a nutritious breakfast in minutes.
     pros:
       - Easy to mix and prepares quickly in a few minutes
@@ -77,7 +76,7 @@ products:
     price: ~$59.99
     rating: 4.8 / 5
     bestFor: Vegans, dairy-free diets, and plant-based baking
-    image: https://prodoughshop.com/cdn/shop/products/prodough-pancake-waffle-mix-532672.jpg?v=1701895127&width=1946
+    image: https://prodoughshop.com/cdn/shop/files/plant-protein-subscription-6006547.jpg?v=1767888864&width=1946
     description: ProDough Plant Protein is a premium vegan protein powder made from high-quality plant-based sources. Naturally sweetened and dairy-free, it delivers smooth texture and rich flavor, making it perfect for daily shakes, smoothies, or high-protein vegan baking.
     pros:
       - 100% plant-based, vegan, and dairy-free
