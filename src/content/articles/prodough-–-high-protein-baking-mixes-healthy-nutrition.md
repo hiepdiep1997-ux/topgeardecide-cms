@@ -77,7 +77,7 @@ products:
     price: ~$59.99
     rating: 4.8 / 5
     bestFor: Vegans, dairy-free diets, and plant-based baking
-    image: /images/Ảnh chụp màn hình 2026-07-22 113646.png
+    image: /images/Ảnh chụp màn hình 2026-07-22 114340.png
     description: ProDough Plant Protein is a premium vegan protein powder made from high-quality plant-based sources. Naturally sweetened and dairy-free, it delivers smooth texture and rich flavor, making it perfect for daily shakes, smoothies, or high-protein vegan baking.
     pros:
       - 100% plant-based, vegan, and dairy-free
