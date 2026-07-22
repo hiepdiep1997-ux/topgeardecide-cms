@@ -88,6 +88,40 @@ products:
     ratingValue: '4.8'
     ratingCount: '85'
     reviewBody: ProDough Plant Protein is highly rated by customers for its smooth texture, rich taste, and high-quality dairy-free plant ingredients. It is an ideal choice for vegans and anyone looking for a clean, delicious protein boost.
+  - name: Standard Flavors Protein Donut Mixes - One Time Purchase
+    award: Best Value Donut Mix
+    affiliateUrl: https://prodoughshop.com?sca_ref=11545857.m7Ohu9ufeAHKBjf
+    price: ~$24.99
+    rating: 4.9 / 5
+    bestFor: Easy home-baking, low-calorie protein donuts, and everyday cravings
+    image: https://prodoughshop.com/cdn/shop/products/standard-flavors-protein-donut-mixes-one-time-purchase-331492.jpg?v=1758232871&width=1946
+    description: ProDough Standard Flavors Protein Donut Mix allows you to bake delicious, macro-friendly donuts right at home without a subscription commitment. Packed with high-quality protein and low in calories, this gluten-free mix makes satisfying your sweet cravings effortless and guilt-free.
+    pros:
+      - High protein, gluten-free, and low in calories
+      - Flexible one-time purchase with classic, delicious flavors
+    cons:
+      - Requires a donut baking pan or maker for best results
+    priceValue: '25'
+    ratingValue: '4.9'
+    ratingCount: '128'
+    reviewBody: ProDough Standard Flavors Protein Donut Mix is loved for its great taste, low-calorie profile, and hassle-free home baking. It offers a convenient, healthy option for satisfying sweet cravings without a recurring subscription.
+  - name: Daily Recharge Reds & Greens Stick Pack Samples
+    award: Best On-The-Go Wellness
+    affiliateUrl: https://prodoughshop.com?sca_ref=11545857.m7Ohu9ufeAHKBjf
+    price: ~$14.99
+    rating: 4.8 / 5
+    bestFor: Daily immunity, natural energy boost, travel, and trying new flavors
+    image: https://prodoughshop.com/cdn/shop/files/daily-recharge-reds-greens-stick-pack-samples-808158.jpg?v=1762453345&width=1946
+    description: ProDough Daily Recharge Reds & Greens Stick Pack Samples provide a convenient, single-serving blend of superfoods, antioxidants, and essential nutrients. Formulated to support immunity, digestion, and natural energy, these portable stick packs make healthy hydration easy wherever you go.
+    pros:
+      - Convenient, single-serving stick packs perfect for travel
+      - Packed with superfoods to support immunity and natural energy
+    cons:
+      - Sample packs contain limited servings compared to full-sized tubs
+    priceValue: '15'
+    ratingValue: '4.8'
+    ratingCount: '65'
+    reviewBody: ProDough Daily Recharge Reds & Greens Stick Pack Samples are highly praised for their convenient portable packaging and refreshing superfood blend. They offer a simple, effective way to boost daily nutrition and immunity on the go.
 faqs:
   - q: Are ProDough products gluten-free?
     a: Yes, ProDough offers gluten-free baking mixes designed for healthy, low-calorie diets.
