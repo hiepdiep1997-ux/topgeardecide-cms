@@ -42,7 +42,7 @@ products:
     price: $59.99
     rating: 4,9/5
     bestFor: Smoothies, daily protein shake, and healthy baking
-    image: /images/Ảnh chụp màn hình 2026-07-22 101301.png
+    image: /images/Ảnh chụp màn hình 2026-07-22 113336.png
     description: ProDough Gourmet Whey Protein Powder offers a rich, smooth flavor profile combined with high-quality protein to support muscle recovery and daily nutrition. Perfectly formulated for shakers, smoothies, or baking into your favorite healthy desserts without clumping.
     pros:
       - Delicious gourmet flavors and excellent mixability
@@ -60,7 +60,7 @@ products:
     price: ~$21.99
     rating: 4.8 / 5
     bestFor: Quick high-protein breakfasts and fitness meal prep
-    image: /images/Ảnh chụp màn hình 2026-07-22 102238.png
+    image: /images/Ảnh chụp màn hình 2026-07-22 113444.png
     description: ProDough Protein Pancake & Waffle Mix delivers fluffy, delicious pancakes packed with high protein and low calories. It is gluten-free and extremely easy to make—just add water or milk, cook, and enjoy a nutritious breakfast in minutes.
     pros:
       - Easy to mix and prepares quickly in a few minutes
@@ -71,6 +71,23 @@ products:
     ratingValue: '4.8'
     ratingCount: '110'
     reviewBody: ProDough Protein Pancake & Waffle Mix is highly rated for its convenient preparation, fluffy texture, and great taste, making it an ideal choice for healthy breakfasts.
+  - name: Plant Protein Full Bag
+    award: Best Plant-Based Option
+    affiliateUrl: https://prodoughshop.com?sca_ref=11545857.m7Ohu9ufeAHKBjf
+    price: ~$59.99
+    rating: 4.8 / 5
+    bestFor: Vegans, dairy-free diets, and plant-based baking
+    image: /images/Ảnh chụp màn hình 2026-07-22 113646.png
+    description: ProDough Plant Protein is a premium vegan protein powder made from high-quality plant-based sources. Naturally sweetened and dairy-free, it delivers smooth texture and rich flavor, making it perfect for daily shakes, smoothies, or high-protein vegan baking.
+    pros:
+      - 100% plant-based, vegan, and dairy-free
+      - Smooth texture with no earthy or chalky aftertaste
+    cons:
+      - Slightly different texture compared to whey protein
+    priceValue: '60'
+    ratingValue: '4.8'
+    ratingCount: '85'
+    reviewBody: ProDough Plant Protein is highly rated by customers for its smooth texture, rich taste, and high-quality dairy-free plant ingredients. It is an ideal choice for vegans and anyone looking for a clean, delicious protein boost.
 faqs:
   - q: Are ProDough products gluten-free?
     a: Yes, ProDough offers gluten-free baking mixes designed for healthy, low-calorie diets.
